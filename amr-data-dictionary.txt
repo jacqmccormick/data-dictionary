@@ -6,3 +6,6 @@ AMR data
 These data represent the sort of data that might be obtained from SGSS
 
 * id Integer - A unique indienfier for each person
+
+This contains IMD data
+
